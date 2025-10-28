@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI in Web Engineering News",
+  "description": "An application that provides the latest news and updates on the use of Artificial Intelligence in web engineering, powered by Gemini with Google Search grounding for up-to-date information.",
+  "requestFramePermissions": []
+}
